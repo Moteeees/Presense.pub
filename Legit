@@ -1,0 +1,1806 @@
+{
+  "Aimbot": [
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+      "Fov": 2.5,
+      "Scoped only": false,
+      "Smooth": 2.31
+    },
+    {},
+    {},
+    {
+      "Enabled": true,
+      "Fov": 2.74,
+      "Scoped only": false,
+      "Smooth": 1.44
+    },
+    {},
+    {},
+    {
+      "Enabled": true,
+      "Fov": 2.5,
+      "Silent": true
+    },
+    {},
+    {
+      "Enabled": true,
+      "Fov": 2.19,
+      "Smooth": 2.31
+    },
+    {
+      "Enabled": true,
+      "Fov": 1.91,
+      "Smooth": 2.31
+    },
+    {}
+  ],
+  "Aimbot Key mode": 0,
+  "Aimbot On key": false,
+  "Backtrack": {
+    "Enabled": true,
+    "Ignore smoke": true,
+    "Recoil based fov": true,
+    "Time limit": 151
+  },
+  "Chams": {
+    "Allies": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Backtrack": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Enemies": {
+      "Materials": [
+        {
+          "Alpha": 1.0,
+          "Color": "#fffa00",
+          "Enabled": true,
+          "Material": 11
+        },
+        {
+          "Alpha": 1.0,
+          "Color": "#ff0000",
+          "Cover": true,
+          "Enabled": true,
+          "Ignore-Z": true,
+          "Material": 2
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Hands": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Local player": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Sleeves": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Weapons": {
+      "Materials": [
+        {
+          "Alpha": 0.100529075,
+          "Color": "#ffffff",
+          "Cover": true,
+          "Enabled": true,
+          "Material": 6,
+          "Rainbow": true,
+          "Rainbow Speed": 2.0
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  },
+  "Inventory Changer": {
+    "Items": [
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 18,
+        "Item Name": "AWP",
+        "Paint Kit": 279,
+        "Paint Kit Name": "Азимов",
+        "Seed": 984,
+        "Weapon ID": 9,
+        "Wear": 0.22164549
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 2,
+        "Item Name": "USP-S",
+        "Paint Kit": 705,
+        "Paint Kit Name": "Извилины",
+        "Seed": 437,
+        "Weapon ID": 61,
+        "Wear": 0.029056145
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 0,
+        "Item Name": "Охотничий нож",
+        "Paint Kit": 409,
+        "Paint Kit Name": "Зуб тигра",
+        "Seed": 915,
+        "Weapon ID": 509,
+        "Wear": 0.00055144535
+      },
+      {
+        "Item Name": "Охотничий нож",
+        "Paint Kit": 1107,
+        "Paint Kit Name": "Легенды",
+        "Seed": 818,
+        "Weapon ID": 509,
+        "Wear": 0.021118661
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 0,
+        "Item Name": "Керамбит",
+        "Paint Kit": 561,
+        "Paint Kit Name": "Легенды",
+        "Seed": 923,
+        "Weapon ID": 507,
+        "Wear": 0.020956922
+      },
+      {
+        "Graffiti ID": 3067,
+        "Item Name": "Запечатанный граффити",
+        "Weapon ID": 1348
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 2,
+        "Item Name": "Glock-18",
+        "Paint Kit": 789,
+        "Paint Kit Name": "Ядерный сад",
+        "Seed": 484,
+        "Weapon ID": 4,
+        "Wear": 0.005375689
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 326,
+        "Paint Kit Name": "Рыцарь",
+        "Seed": 452,
+        "Weapon ID": 60,
+        "Wear": 0.0035022658
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 41,
+        "Item Name": "Спортивные перчатки",
+        "Paint Kit": 10018,
+        "Paint Kit Name": "Сверхпроводник",
+        "Seed": 774,
+        "Weapon ID": 5030,
+        "Wear": 0.082889736
+      },
+      {
+        "Item Name": "Штык-нож",
+        "Paint Kit": 44,
+        "Paint Kit Name": "Поверхностная закалка",
+        "Seed": 600,
+        "Weapon ID": 500,
+        "Wear": 0.028390203
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 15,
+        "Item Name": "AK-47",
+        "Paint Kit": 490,
+        "Paint Kit Name": "Снежный вихрь",
+        "Seed": 108,
+        "Weapon ID": 7,
+        "Wear": 0.056760322
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 15,
+        "Item Name": "M4A4",
+        "Paint Kit": 588,
+        "Paint Kit Name": "Безлюдный космос",
+        "Seed": 898,
+        "Weapon ID": 16,
+        "Wear": 0.019790454
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 6,
+        "Item Name": "Desert Eagle",
+        "Paint Kit": 1090,
+        "Paint Kit Name": "Океанское побережье",
+        "Seed": 553,
+        "Weapon ID": 1,
+        "Wear": 0.059303038
+      },
+      {
+        "Item Name": "Five-SeveN",
+        "Paint Kit": 837,
+        "Paint Kit Name": "Разъярённая толпа",
+        "Seed": 563,
+        "Weapon ID": 3,
+        "Wear": 0.0048345802
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 4,
+        "Item Name": "P250",
+        "Paint Kit": 271,
+        "Paint Kit Name": "Цвета прибоя",
+        "Seed": 356,
+        "Weapon ID": 36,
+        "Wear": 0.010277279
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 3,
+        "Item Name": "Dual Berettas",
+        "Paint Kit": 747,
+        "Paint Kit Name": "Турбодвойники",
+        "Seed": 345,
+        "Weapon ID": 2,
+        "Wear": 0.03610228
+      },
+      {
+        "Item Name": "Tec-9",
+        "Paint Kit": 889,
+        "Paint Kit Name": "Опустошитель",
+        "Seed": 431,
+        "Weapon ID": 30,
+        "Wear": 0.020929284
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 5,
+        "Item Name": "CZ75-Auto",
+        "Paint Kit": 269,
+        "Paint Kit Name": "Новая фуксия",
+        "Seed": 847,
+        "Weapon ID": 63,
+        "Wear": 0.017742353
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 8,
+        "Item Name": "MAC-10",
+        "Paint Kit": 947,
+        "Paint Kit Name": "Дискотехника",
+        "Seed": 408,
+        "Weapon ID": 17,
+        "Wear": 0.04463553
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 9,
+        "Item Name": "MP7",
+        "Paint Kit": 1133,
+        "Paint Kit Name": "Дух бездны",
+        "Seed": 131,
+        "Weapon ID": 33,
+        "Wear": 0.02812665
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 10,
+        "Item Name": "UMP-45",
+        "Paint Kit": 879,
+        "Paint Kit Name": "Градиент",
+        "Seed": 951,
+        "Weapon ID": 24,
+        "Wear": 0.003494716
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 11,
+        "Item Name": "P90",
+        "Paint Kit": 759,
+        "Paint Kit Name": "Астральный Ёрмунганд",
+        "Seed": 913,
+        "Weapon ID": 19,
+        "Wear": 0.033523068
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 12,
+        "Item Name": "ПП-19 «Бизон»",
+        "Paint Kit": 676,
+        "Paint Kit Name": "Азарт",
+        "Seed": 563,
+        "Weapon ID": 26,
+        "Wear": 0.069897585
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 8,
+        "Item Name": "MP9",
+        "Paint Kit": 39,
+        "Paint Kit Name": "Бульдозер",
+        "Seed": 256,
+        "Weapon ID": 34,
+        "Wear": 0.105315164
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 16,
+        "Item Name": "SSG 08",
+        "Paint Kit": 624,
+        "Paint Kit Name": "Пламя дракона",
+        "Seed": 167,
+        "Weapon ID": 40,
+        "Wear": 0.006779228
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 18,
+        "Item Name": "AWP",
+        "Paint Kit": 344,
+        "Paint Kit Name": "История о драконе",
+        "Seed": 159,
+        "Weapon ID": 9,
+        "Wear": 0.0052756476
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 60,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 50,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 43,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 9,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 54,
+        "Weapon ID": 1314
+      },
+      {
+        "Equipped": [
+          "NOTEAM"
+        ],
+        "Equipped Slot": 54,
+        "Item Name": "Набор музыки",
+        "Music ID": 24,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 60,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 32,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 29,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 33,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 55,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 17,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 3,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 45,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 23,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 16,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 51,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 31,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 8,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 44,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 7,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 56,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 42,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 40,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 34,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 27,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 57,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 21,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 19,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 58,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 30,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 14,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 13,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 49,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 26,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 12,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 25,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 35,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 52,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 28,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 4,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 18,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 36,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 5,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 48,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 59,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 10,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 53,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 41,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 6,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 22,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 38,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 11,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 61,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 39,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 47,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 46,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 20,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 37,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Набор музыки",
+        "Music ID": 15,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Медаль карты Subzero",
+        "Weapon ID": 1054
+      },
+      {
+        "Item Name": "Наклейка",
+        "Sticker ID": 4684,
+        "Weapon ID": 1209
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 38,
+        "Item Name": "«Черничный» Бакшот | NSWC SEAL",
+        "Weapon ID": 4619
+      },
+      {
+        "Item Name": "Бакшот | NSWC SEAL",
+        "Weapon ID": 5402
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 38,
+        "Item Name": "«Доктор» Романов | Кавалерия",
+        "Weapon ID": 5504
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 41,
+        "Item Name": "Обмотки рук",
+        "Paint Kit": 10055,
+        "Paint Kit Name": "Скотч",
+        "Seed": 525,
+        "Weapon ID": 5032,
+        "Wear": 0.10719141
+      },
+      {
+        "Item Name": "M249",
+        "Paint Kit": 900,
+        "Paint Kit Name": "Ветеран полётов",
+        "Seed": 492,
+        "Weapon ID": 14,
+        "Wear": 0.1298516
+      },
+      {
+        "Item Name": "MP5-SD",
+        "Paint Kit": 888,
+        "Paint Kit Name": "Кислотный душ",
+        "Seed": 631,
+        "Weapon ID": 23,
+        "Wear": 0.09173377
+      },
+      {
+        "Item Name": "Tec-9",
+        "Paint Kit": 889,
+        "Paint Kit Name": "Опустошитель",
+        "Seed": 334,
+        "Weapon ID": 30,
+        "Wear": 0.20658794
+      },
+      {
+        "Item Name": "Nova",
+        "Paint Kit": 890,
+        "Paint Kit Name": "Перо",
+        "Seed": 133,
+        "Weapon ID": 35,
+        "Wear": 0.07436656
+      },
+      {
+        "Item Name": "G3SG1",
+        "Paint Kit": 891,
+        "Paint Kit Name": "Чёрный песок",
+        "Seed": 581,
+        "Weapon ID": 11,
+        "Wear": 0.44713053
+      },
+      {
+        "Item Name": "M249",
+        "Paint Kit": 900,
+        "Paint Kit Name": "Ветеран полётов",
+        "Seed": 750,
+        "Weapon ID": 14,
+        "Wear": 0.22682488
+      },
+      {
+        "Item Name": "Nova",
+        "Paint Kit": 890,
+        "Paint Kit Name": "Перо",
+        "Seed": 272,
+        "Weapon ID": 35,
+        "Wear": 0.061423827
+      },
+      {
+        "Item Name": "MP5-SD",
+        "Paint Kit": 888,
+        "Paint Kit Name": "Кислотный душ",
+        "Seed": 922,
+        "Weapon ID": 23,
+        "Wear": 0.07157499
+      },
+      {
+        "Item Name": "G3SG1",
+        "Paint Kit": 891,
+        "Paint Kit Name": "Чёрный песок",
+        "Seed": 813,
+        "Weapon ID": 11,
+        "Wear": 0.13893004
+      },
+      {
+        "Item Name": "SCAR-20",
+        "Paint Kit": 896,
+        "Paint Kit Name": "Надрыв",
+        "Seed": 623,
+        "Weapon ID": 38,
+        "Wear": 0.061706953
+      },
+      {
+        "Item Name": "MP7",
+        "Paint Kit": 893,
+        "Paint Kit Name": "Неоновая фанера",
+        "Seed": 363,
+        "Weapon ID": 33,
+        "Wear": 0.2236315
+      },
+      {
+        "Item Name": "M249",
+        "Paint Kit": 900,
+        "Paint Kit Name": "Ветеран полётов",
+        "Seed": 42,
+        "Weapon ID": 14,
+        "Wear": 0.20010273
+      },
+      {
+        "Item Name": "Dual Berettas",
+        "Paint Kit": 895,
+        "Paint Kit Name": "Баланс",
+        "Seed": 532,
+        "Weapon ID": 2,
+        "Wear": 0.1782493
+      },
+      {
+        "Item Name": "MP5-SD",
+        "Paint Kit": 888,
+        "Paint Kit Name": "Кислотный душ",
+        "Seed": 120,
+        "Weapon ID": 23,
+        "Wear": 0.2216863
+      },
+      {
+        "Item Name": "G3SG1",
+        "Paint Kit": 891,
+        "Paint Kit Name": "Чёрный песок",
+        "Seed": 709,
+        "StatTrak": 0,
+        "Weapon ID": 11,
+        "Wear": 0.14129917
+      },
+      {
+        "Item Name": "Револьвер R8",
+        "Paint Kit": 892,
+        "Paint Kit Name": "Реликвия",
+        "Seed": 325,
+        "Weapon ID": 64,
+        "Wear": 0.19729507
+      },
+      {
+        "Item Name": "ПП-19 «Бизон»",
+        "Paint Kit": 884,
+        "Paint Kit Name": "Эмбарго",
+        "Seed": 850,
+        "Weapon ID": 26,
+        "Wear": 0.1720117
+      },
+      {
+        "Item Name": "AUG",
+        "Paint Kit": 886,
+        "Paint Kit Name": "Арктический волк",
+        "Seed": 581,
+        "Weapon ID": 8,
+        "Wear": 0.16598737
+      },
+      {
+        "Item Name": "SCAR-20",
+        "Paint Kit": 896,
+        "Paint Kit Name": "Надрыв",
+        "Seed": 129,
+        "StatTrak": 0,
+        "Weapon ID": 38,
+        "Wear": 0.19798124
+      },
+      {
+        "Item Name": "P2000",
+        "Paint Kit": 894,
+        "Paint Kit Name": "Обсидиан",
+        "Seed": 700,
+        "Weapon ID": 32,
+        "Wear": 0.2936672
+      },
+      {
+        "Item Name": "Ключ от кейса «Расколотая сеть»",
+        "Weapon ID": 1384
+      },
+      {
+        "Item Name": "Ключ от кейса «Расколотая сеть»",
+        "Weapon ID": 1384
+      },
+      {
+        "Item Name": "Ключ от кейса «Расколотая сеть»",
+        "Weapon ID": 1384
+      },
+      {
+        "Item Name": "Ключ от кейса «Расколотая сеть»",
+        "Weapon ID": 1384
+      },
+      {
+        "Item Name": "Ключ от кейса «Расколотая сеть»",
+        "Weapon ID": 1384
+      },
+      {
+        "Item Name": "Ключ от кейса «Расколотая сеть»",
+        "Weapon ID": 1384
+      },
+      {
+        "Item Name": "Ключ от кейса «Расколотая сеть»",
+        "Weapon ID": 1384
+      },
+      {
+        "Item Name": "Ключ от кейса «Расколотая сеть»",
+        "Weapon ID": 1384
+      },
+      {
+        "Item Name": "Ключ от кейса «Расколотая сеть»",
+        "Weapon ID": 1384
+      },
+      {
+        "Item Name": "Ключ от кейса «Расколотая сеть»",
+        "Weapon ID": 1384
+      },
+      {
+        "Item Name": "Ключ от кейса «Расколотая сеть»",
+        "Weapon ID": 1384
+      },
+      {
+        "Item Name": "Ключ от кейса «Расколотая сеть»",
+        "Weapon ID": 1384
+      },
+      {
+        "Item Name": "Ключ от кейса «Расколотая сеть»",
+        "Weapon ID": 1384
+      },
+      {
+        "Item Name": "Ключ от кейса «Расколотая сеть»",
+        "Weapon ID": 1384
+      },
+      {
+        "Item Name": "Ключ от кейса «Расколотая сеть»",
+        "Weapon ID": 1384
+      },
+      {
+        "Item Name": "Ключ от кейса «Расколотая сеть»",
+        "Weapon ID": 1384
+      },
+      {
+        "Item Name": "Ключ от кейса «Расколотая сеть»",
+        "Weapon ID": 1384
+      },
+      {
+        "Item Name": "Ключ от кейса «Расколотая сеть»",
+        "Weapon ID": 1384
+      },
+      {
+        "Item Name": "Ключ от кейса «Расколотая сеть»",
+        "Weapon ID": 1384
+      },
+      {
+        "Item Name": "Ключ от кейса «Расколотая сеть»",
+        "Weapon ID": 1384
+      },
+      {
+        "Item Name": "Ключ от кейса «Расколотая сеть»",
+        "Weapon ID": 1384
+      },
+      {
+        "Item Name": "Ключ от кейса «Расколотая сеть»",
+        "Weapon ID": 1384
+      },
+      {
+        "Item Name": "Ключ от кейса «Расколотая сеть»",
+        "Weapon ID": 1384
+      },
+      {
+        "Item Name": "Ключ от кейса «Расколотая сеть»",
+        "Weapon ID": 1384
+      },
+      {
+        "Item Name": "Ключ от кейса «Расколотая сеть»",
+        "Weapon ID": 1384
+      },
+      {
+        "Item Name": "Ключ от кейса «Расколотая сеть»",
+        "Weapon ID": 1384
+      },
+      {
+        "Item Name": "Ключ от кейса «Расколотая сеть»",
+        "Weapon ID": 1384
+      },
+      {
+        "Item Name": "Ключ от кейса «Расколотая сеть»",
+        "Weapon ID": 1384
+      },
+      {
+        "Item Name": "Ключ от кейса «Расколотая сеть»",
+        "Weapon ID": 1384
+      },
+      {
+        "Item Name": "Ключ от кейса «Расколотая сеть»",
+        "Weapon ID": 1384
+      },
+      {
+        "Item Name": "Ключ от кейса «Расколотая сеть»",
+        "Weapon ID": 1384
+      },
+      {
+        "Item Name": "Ключ от кейса «Расколотая сеть»",
+        "Weapon ID": 1384
+      },
+      {
+        "Item Name": "Ключ от кейса «Расколотая сеть»",
+        "Weapon ID": 1384
+      },
+      {
+        "Item Name": "Ключ от кейса «Расколотая сеть»",
+        "Weapon ID": 1384
+      },
+      {
+        "Item Name": "Ключ от кейса «Расколотая сеть»",
+        "Weapon ID": 1384
+      },
+      {
+        "Item Name": "Ключ от кейса «Расколотая сеть»",
+        "Weapon ID": 1384
+      },
+      {
+        "Item Name": "Ключ от кейса «Расколотая сеть»",
+        "Weapon ID": 1384
+      },
+      {
+        "Item Name": "Ключ от кейса «Расколотая сеть»",
+        "Weapon ID": 1384
+      },
+      {
+        "Item Name": "Кейс «Расколотая сеть»",
+        "Weapon ID": 4620
+      },
+      {
+        "Item Name": "Кейс «Расколотая сеть»",
+        "Weapon ID": 4620
+      },
+      {
+        "Item Name": "Кейс «Расколотая сеть»",
+        "Weapon ID": 4620
+      },
+      {
+        "Item Name": "Кейс «Расколотая сеть»",
+        "Weapon ID": 4620
+      },
+      {
+        "Item Name": "Кейс «Расколотая сеть»",
+        "Weapon ID": 4620
+      },
+      {
+        "Item Name": "Кейс «Расколотая сеть»",
+        "Weapon ID": 4620
+      },
+      {
+        "Item Name": "Кейс «Расколотая сеть»",
+        "Weapon ID": 4620
+      },
+      {
+        "Item Name": "Кейс «Расколотая сеть»",
+        "Weapon ID": 4620
+      },
+      {
+        "Item Name": "Кейс «Расколотая сеть»",
+        "Weapon ID": 4620
+      },
+      {
+        "Item Name": "Кейс «Расколотая сеть»",
+        "Weapon ID": 4620
+      },
+      {
+        "Item Name": "Кейс «Расколотая сеть»",
+        "Weapon ID": 4620
+      },
+      {
+        "Item Name": "Кейс «Расколотая сеть»",
+        "Weapon ID": 4620
+      },
+      {
+        "Item Name": "Кейс «Расколотая сеть»",
+        "Weapon ID": 4620
+      },
+      {
+        "Item Name": "Кейс «Расколотая сеть»",
+        "Weapon ID": 4620
+      },
+      {
+        "Item Name": "Кейс «Расколотая сеть»",
+        "Weapon ID": 4620
+      },
+      {
+        "Item Name": "Кейс «Расколотая сеть»",
+        "Weapon ID": 4620
+      },
+      {
+        "Item Name": "Кейс «Расколотая сеть»",
+        "Weapon ID": 4620
+      },
+      {
+        "Item Name": "Кейс «Расколотая сеть»",
+        "Weapon ID": 4620
+      },
+      {
+        "Item Name": "Кейс «Расколотая сеть»",
+        "Weapon ID": 4620
+      },
+      {
+        "Item Name": "Кейс «Расколотая сеть»",
+        "Weapon ID": 4620
+      },
+      {
+        "Item Name": "Кейс «Расколотая сеть»",
+        "Weapon ID": 4620
+      },
+      {
+        "Item Name": "Кейс «Расколотая сеть»",
+        "Weapon ID": 4620
+      },
+      {
+        "Item Name": "Кейс «Расколотая сеть»",
+        "Weapon ID": 4620
+      },
+      {
+        "Item Name": "Кейс «Расколотая сеть»",
+        "Weapon ID": 4620
+      },
+      {
+        "Item Name": "Кейс «Расколотая сеть»",
+        "Weapon ID": 4620
+      },
+      {
+        "Item Name": "Кейс «Расколотая сеть»",
+        "Weapon ID": 4620
+      },
+      {
+        "Item Name": "Кейс «Расколотая сеть»",
+        "Weapon ID": 4620
+      },
+      {
+        "Item Name": "Кейс «Расколотая сеть»",
+        "Weapon ID": 4620
+      },
+      {
+        "Item Name": "Кейс «Расколотая сеть»",
+        "Weapon ID": 4620
+      },
+      {
+        "Item Name": "Кейс «Расколотая сеть»",
+        "Weapon ID": 4620
+      },
+      {
+        "Item Name": "Кейс «Расколотая сеть»",
+        "Weapon ID": 4620
+      },
+      {
+        "Item Name": "Кейс «Расколотая сеть»",
+        "Weapon ID": 4620
+      },
+      {
+        "Item Name": "Кейс «Расколотая сеть»",
+        "Weapon ID": 4620
+      },
+      {
+        "Item Name": "Кейс «Расколотая сеть»",
+        "Weapon ID": 4620
+      },
+      {
+        "Item Name": "Кейс «Расколотая сеть»",
+        "Weapon ID": 4620
+      },
+      {
+        "Item Name": "Кейс «Расколотая сеть»",
+        "Weapon ID": 4620
+      },
+      {
+        "Item Name": "Кейс «Расколотая сеть»",
+        "Weapon ID": 4620
+      },
+      {
+        "Item Name": "Кейс «Расколотая сеть»",
+        "Weapon ID": 4620
+      },
+      {
+        "Item Name": "Nova",
+        "Paint Kit": 890,
+        "Paint Kit Name": "Перо",
+        "Seed": 429,
+        "Weapon ID": 35,
+        "Wear": 0.7003191
+      },
+      {
+        "Item Name": "Dual Berettas",
+        "Paint Kit": 895,
+        "Paint Kit Name": "Баланс",
+        "Seed": 110,
+        "Weapon ID": 2,
+        "Wear": 0.15725654
+      },
+      {
+        "Item Name": "MAC-10",
+        "Paint Kit": 898,
+        "Paint Kit Name": "На охоте",
+        "Seed": 603,
+        "Weapon ID": 17,
+        "Wear": 0.12324211
+      },
+      {
+        "Item Name": "M249",
+        "Paint Kit": 900,
+        "Paint Kit Name": "Ветеран полётов",
+        "Seed": 177,
+        "Weapon ID": 14,
+        "Wear": 0.09886654
+      },
+      {
+        "Item Name": "Dual Berettas",
+        "Paint Kit": 895,
+        "Paint Kit Name": "Баланс",
+        "Seed": 374,
+        "Weapon ID": 2,
+        "Wear": 0.19478312
+      },
+      {
+        "Item Name": "SCAR-20",
+        "Paint Kit": 896,
+        "Paint Kit Name": "Надрыв",
+        "Seed": 291,
+        "Weapon ID": 38,
+        "Wear": 0.13802424
+      },
+      {
+        "Item Name": "Револьвер R8",
+        "Paint Kit": 892,
+        "Paint Kit Name": "Реликвия",
+        "Seed": 455,
+        "Weapon ID": 64,
+        "Wear": 0.33737543
+      },
+      {
+        "Item Name": "Dual Berettas",
+        "Paint Kit": 895,
+        "Paint Kit Name": "Баланс",
+        "Seed": 672,
+        "Weapon ID": 2,
+        "Wear": 0.40977395
+      },
+      {
+        "Item Name": "M249",
+        "Paint Kit": 900,
+        "Paint Kit Name": "Ветеран полётов",
+        "Seed": 626,
+        "Weapon ID": 14,
+        "Wear": 0.285177
+      },
+      {
+        "Item Name": "SG 553",
+        "Paint Kit": 897,
+        "Paint Kit Name": "Колония IV",
+        "Seed": 438,
+        "StatTrak": 0,
+        "Weapon ID": 39,
+        "Wear": 0.13612166
+      },
+      {
+        "Item Name": "SCAR-20",
+        "Paint Kit": 896,
+        "Paint Kit Name": "Надрыв",
+        "Seed": 320,
+        "Weapon ID": 38,
+        "Wear": 0.116889834
+      },
+      {
+        "Item Name": "MP7",
+        "Paint Kit": 893,
+        "Paint Kit Name": "Неоновая фанера",
+        "Seed": 565,
+        "StatTrak": 0,
+        "Weapon ID": 33,
+        "Wear": 0.24363689
+      },
+      {
+        "Equipped": [
+          "NOTEAM"
+        ],
+        "Equipped Slot": 55,
+        "Item Name": "Золотая монета операции «Расколотая сеть»",
+        "Weapon ID": 4552
+      },
+      {
+        "Item Name": "Бриллиантовая монета операции «Расколотая сеть»",
+        "Weapon ID": 4553
+      }
+    ],
+    "Version": 4
+  },
+  "Misc": {
+    "Aspect Ratio": 1.33,
+    "Auto pistol": true,
+    "Bunny hop": true,
+    "Disable model occlusion": true,
+    "Edge Jump": true,
+    "Edge Jump Key": "LALT",
+    "Fast duck": true,
+    "Fix animation LOD": true,
+    "Fix bone matrix": true,
+    "Fix movement": true,
+    "Grenade predict": true,
+    "Hit sound": 2,
+    "Noscope crosshair": {
+      "Alpha": 1.0,
+      "Color": "#41ff00",
+      "Enabled": true
+    },
+    "Radar hack": true,
+    "Reveal money": true,
+    "Reveal ranks": true,
+    "Reveal suspect": true,
+    "Reveal votes": true
+  },
+  "Sound": {
+    "Players": [
+      {},
+      {},
+      {
+        "Footstep volume": 200,
+        "Headshot volume": 119,
+        "Weapon volume": 200
+      }
+    ]
+  },
+  "Style": {
+    "Colors": {
+      "Border": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "BorderShadow": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Button": [
+        0.35,
+        0.4,
+        0.61,
+        0.62
+      ],
+      "ButtonActive": [
+        0.46,
+        0.54,
+        0.8,
+        1.0
+      ],
+      "ButtonHovered": [
+        0.4,
+        0.48,
+        0.71,
+        0.79
+      ],
+      "CheckMark": [
+        0.9,
+        0.9,
+        0.9,
+        0.5
+      ],
+      "ChildBg": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "DragDropTarget": [
+        1.0,
+        1.0,
+        0.0,
+        0.9
+      ],
+      "FrameBg": [
+        0.43,
+        0.43,
+        0.43,
+        0.39
+      ],
+      "FrameBgActive": [
+        0.42,
+        0.41,
+        0.64,
+        0.69
+      ],
+      "FrameBgHovered": [
+        0.47,
+        0.47,
+        0.69,
+        0.4
+      ],
+      "Header": [
+        0.4,
+        0.4,
+        0.9,
+        0.45
+      ],
+      "HeaderActive": [
+        0.53,
+        0.53,
+        0.87,
+        0.8
+      ],
+      "HeaderHovered": [
+        0.45,
+        0.45,
+        0.9,
+        0.8
+      ],
+      "MenuBarBg": [
+        0.4,
+        0.4,
+        0.55,
+        0.8
+      ],
+      "ModalWindowDimBg": [
+        0.2,
+        0.2,
+        0.2,
+        0.35
+      ],
+      "NavHighlight": [
+        0.45,
+        0.45,
+        0.9,
+        0.8
+      ],
+      "NavWindowingDimBg": [
+        0.8,
+        0.8,
+        0.8,
+        0.2
+      ],
+      "NavWindowingHighlight": [
+        1.0,
+        1.0,
+        1.0,
+        0.7
+      ],
+      "PlotHistogram": [
+        0.9,
+        0.7,
+        0.0,
+        1.0
+      ],
+      "PlotHistogramHovered": [
+        1.0,
+        0.6,
+        0.0,
+        1.0
+      ],
+      "PlotLines": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "PlotLinesHovered": [
+        0.9,
+        0.7,
+        0.0,
+        1.0
+      ],
+      "PopupBg": [
+        0.11,
+        0.11,
+        0.14,
+        0.92
+      ],
+      "ResizeGrip": [
+        1.0,
+        1.0,
+        1.0,
+        0.1
+      ],
+      "ResizeGripActive": [
+        0.78,
+        0.82,
+        1.0,
+        0.9
+      ],
+      "ResizeGripHovered": [
+        0.78,
+        0.82,
+        1.0,
+        0.6
+      ],
+      "ScrollbarBg": [
+        0.2,
+        0.25,
+        0.3,
+        0.6
+      ],
+      "ScrollbarGrab": [
+        0.4,
+        0.4,
+        0.8,
+        0.3
+      ],
+      "ScrollbarGrabActive": [
+        0.41,
+        0.39,
+        0.8,
+        0.6
+      ],
+      "ScrollbarGrabHovered": [
+        0.4,
+        0.4,
+        0.8,
+        0.4
+      ],
+      "Separator": [
+        0.5,
+        0.5,
+        0.5,
+        0.6
+      ],
+      "SeparatorActive": [
+        0.7,
+        0.7,
+        0.9,
+        1.0
+      ],
+      "SeparatorHovered": [
+        0.6,
+        0.6,
+        0.7,
+        1.0
+      ],
+      "SliderGrab": [
+        1.0,
+        1.0,
+        1.0,
+        0.3
+      ],
+      "SliderGrabActive": [
+        0.41,
+        0.39,
+        0.8,
+        0.6
+      ],
+      "Tab": [
+        0.336,
+        0.336,
+        0.684,
+        0.786
+      ],
+      "TabActive": [
+        0.40399998,
+        0.40399998,
+        0.726,
+        0.842
+      ],
+      "TabHovered": [
+        0.45,
+        0.45,
+        0.9,
+        0.8
+      ],
+      "TabUnfocused": [
+        0.2832,
+        0.2832,
+        0.56880003,
+        0.8212
+      ],
+      "TabUnfocusedActive": [
+        0.3504,
+        0.3504,
+        0.6516,
+        0.8372
+      ],
+      "TableBorderLight": [
+        0.26,
+        0.26,
+        0.28,
+        1.0
+      ],
+      "TableBorderStrong": [
+        0.31,
+        0.31,
+        0.45,
+        1.0
+      ],
+      "TableHeaderBg": [
+        0.27,
+        0.27,
+        0.38,
+        1.0
+      ],
+      "TableRowBg": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "TableRowBgAlt": [
+        1.0,
+        1.0,
+        1.0,
+        0.07
+      ],
+      "Text": [
+        0.9,
+        0.9,
+        0.9,
+        1.0
+      ],
+      "TextDisabled": [
+        0.6,
+        0.6,
+        0.6,
+        1.0
+      ],
+      "TextSelectedBg": [
+        0.0,
+        0.0,
+        1.0,
+        0.35
+      ],
+      "TitleBg": [
+        0.27,
+        0.27,
+        0.54,
+        0.83
+      ],
+      "TitleBgActive": [
+        0.32,
+        0.32,
+        0.63,
+        0.87
+      ],
+      "TitleBgCollapsed": [
+        0.4,
+        0.4,
+        0.8,
+        0.2
+      ],
+      "WindowBg": [
+        0.0,
+        0.0,
+        0.0,
+        0.85
+      ]
+    },
+    "Menu colors": 3
+  },
+  "Triggerbot": [
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Visuals": {
+    "Brightness": 1.0,
+    "Disable post-processing": true,
+    "FOV": 2,
+    "Flash reduction": 10,
+    "Hit effect": 4,
+    "Hit marker": 1,
+    "Inverse ragdoll gravity": true,
+    "Molotov Hull": {
+      "Enabled": true
+    },
+    "No blur": true,
+    "No fog": true
+  }
+}
